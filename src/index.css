@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.content-container{
+
+  width: 100vw;
+  object-fit: cover;
+}
+.seattle-img{
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.nav-bar{
+  position: fixed;
+  top:0;
+  background-color: whitesmoke;
+  display: flex;
+  width:100%;
+  justify-content: center;
+}
+.nav-link-box{
+  flex-grow: 1  ;
+  border-style: dotted;
+
+}
