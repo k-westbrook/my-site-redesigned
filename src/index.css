@@ -117,10 +117,10 @@ a{
   padding-top:3vh;
 }
 .about-me-picture{
-  height:30%;
- width:30%;
- padding:5rem;
- margin: 2rem;
+  height:35vh;
+  width: 20vw;
+  margin-top:2vh;
+  margin-bottom:5vh;
 
 }
 
@@ -137,17 +137,13 @@ a{
 
 .paragraph{
   color:black;
-  padding:.5vw;
   font-size:120%;
 }
 
 .size-emphasis{
   font-size:175%;
 }
-.story{
- margin-top: 1vh;
 
-}
 
 
 .images-box{
