@@ -7,28 +7,28 @@ class NavBar extends Component {
     return (
       <div>
         <div className="nav-bar">
-          <Link to='/'>
-            <div className='nav-link-box'>
+          <div className='nav-link-box'>
+            <Link to='/'>
               <h4>Home</h4>
-            </div>
-          </Link>
-          <Link to='/projects'>
-            <div className='nav-link-box'>
+            </Link>
+          </div>
+          <div className='nav-link-box'>
+            <Link to='/projects'>
               <h4>Projects</h4>
-            </div>
-          </Link>
-          <Link to='/aboutme'>
-            <div className='nav-link-box'>
-              <h4>About Me</h4>
-            </div>
-          </Link>
-          <Link to='/photo-gallery'>
-            <div className='nav-link-box'>
+            </Link>
+          </div>
+          <div className='nav-link-box'>
+            <Link to='/aboutme'>
+              <h4> About Me</h4>
+            </Link>
+          </div>
+          <div className='nav-link-box'>
+            <Link to='/photo-gallery'>
               <h4>Photo Gallery</h4>
-            </div>
-          </Link>
+            </Link>
+          </div>
         </div>
-      </div>
+      </div >
     );
   }
 }

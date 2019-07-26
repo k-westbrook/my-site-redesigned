@@ -12,14 +12,22 @@ code {
     monospace;
 }
 
-.content-container{
-
+.title-container{
   width: 100vw;
   object-fit: cover;
+
 }
 .seattle-img{
   max-width: 100%;
   max-height: 100%;
+}
+.title-header{
+  position: absolute;
+  top: 30%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  font-size: 5vw;
+  color:whitesmoke;
 }
 
 .nav-bar{
@@ -29,9 +37,62 @@ code {
   display: flex;
   width:100%;
   justify-content: center;
+  height:10vh;
 }
 .nav-link-box{
-  flex-grow: 1  ;
-  border-style: dotted;
+  padding:1vw;
+  flex-grow: 1;
+  text-align: center;
+  font: size 1.5vw;
+  color:black;
+}
+a{
+  text-decoration: none;
+  color:black;
+}
+.section-title{
+  text-align: center;
+  width: 100%;
+}
+.section-container
+{
+  margin-top:10vh;
+  padding: 2vh 0 2vh 0;
+}
+
+.projects-box{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  }
+
+  .project-card{
+
+    height: 5vh;
+    width: 8vw;
+    display: flex;
+    flex-direction: column;
+  }
+
+
+.project-info{
+  color: black;
+  padding:.1vw;
+
+}
+.project-description{
+  text-align:start;
+  margin: .5vw;
+  font-size: 70%;
+}
+.project-img{
+  width:20vw;
+  height:20vh;
+
+}
+
+.project-name{
+  font-size: 100%;
 
 }
