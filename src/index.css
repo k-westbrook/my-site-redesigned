@@ -28,6 +28,9 @@ code {
   transform: translate(-50%, -50%);
   font-size: 5vw;
   color:whitesmoke;
+  border-style:double;
+  border-radius: 1rem;
+  padding: 1%;
 }
 
 .nav-bar{
@@ -120,10 +123,11 @@ a{
   flex-direction: column;
   margin: 1vh 5vw 5vh 5vw;
   align-content: center;
-  border-style: solid;
+
   padding-left:8vw;
   padding-right:8vw;
   padding-top:3vh;
+  background-color: whitesmoke;
 }
 .about-me-picture{
   height:35vh;
@@ -147,6 +151,8 @@ a{
 .paragraph{
   color:black;
   font-size:120%;
+  border-bottom-style: solid;
+  padding-bottom: 2vh;
 }
 
 .size-emphasis{
@@ -167,7 +173,7 @@ justify-content: center;
   height: 20rem;
   width: 20rem  ;
   margin: .5rem;
-  border-radius: .5rem;
+
   box-shadow: 5px 5px 2px black ;
 }
 
