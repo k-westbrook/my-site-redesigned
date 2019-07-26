@@ -33,17 +33,18 @@ code {
 .nav-bar{
   position: fixed;
   top:0;
-  background-color: whitesmoke;
+  background-color: #faebd7;
   display: flex;
   width:100%;
   justify-content: center;
   height:10vh;
 }
 .nav-link-box{
-  padding:1vw;
+
   flex-grow: 1;
   text-align: center;
-  font: size 1.5vw;
+  font-size: 1.5vw;
+
   color:black;
 }
 a{
@@ -54,11 +55,14 @@ a{
   text-align: center;
   width: 100%;
   font-size: 200%;
+  color:whitesmoke;
 }
 .section-container
 {
   margin-top:10vh;
   padding: 2vh 0 2vh 0;
+  background-image: url('https://images.pexels.com/photos/1796730/pexels-photo-1796730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+
 }
 
 .projects-box{
@@ -74,18 +78,23 @@ a{
 
   .project-card{
     display: flex;
-    flex-grow: 1;
+
+    margin-left: 2.5vw;
+    margin-right:2.5vw;
     flex-direction: column;
+    background-color: whitesmoke;
+    box-shadow: 1vh 1vh 1vh;
   }
 
 
 .project-info{
   height: 50vh;
-  width: 30vw;
+  width: 20vw;
+
   margin: 0 1vw 0 1vw;
   color: black;
   padding:.2vw;
-  box-shadow: .5vh .5vh 5vh #888888;
+
 
 
 }

@@ -13,7 +13,7 @@ class AboutMe extends Component {
         </div>
         <div className='about-me-box'>
 
-          <div className='description-me-box'>
+          <div >
 
             <div className='story'>
               <p className='paragraph'>
