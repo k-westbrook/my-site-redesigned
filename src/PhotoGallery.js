@@ -6,7 +6,7 @@ class PhotoGallery extends Component {
   render() {
     return (
       <div className="App">
-        <div className="section-header">
+        <div className="section-container">
           <div className='section-title'>
             <h2 >Photo Gallery</h2>
           </div>

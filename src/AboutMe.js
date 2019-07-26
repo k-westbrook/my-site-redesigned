@@ -6,7 +6,7 @@ class AboutMe extends Component {
   render() {
     return (
       <div className="App">
-        <div className="section-header">
+        <div className="section-container">
           <div className='section-title'>
             <h2 >About Katie</h2>
           </div>

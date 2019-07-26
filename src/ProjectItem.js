@@ -5,7 +5,7 @@ import './App.css';
 
 export const ProjectItem = (props) => {
   const { name, imageURL, description, link } = props.project;
-  console.log(link)
+
   return (
     <div>
       <a href={link}>
