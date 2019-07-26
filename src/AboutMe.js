@@ -37,7 +37,7 @@ class AboutMe extends Component {
                   <b className='size-emphasis'>Contact me</b>
                   <br />
                   <br />
-                  Take a look at <a className='inline-link' href='https://res.cloudinary.com/dmp2crnzz/image/upload/v1554335913/personal-site/Katherine_Westbrook.pdf' alt='resume'>my CV/Resume right now </a>for more details on my professional background.
+                  Take a look at <a className='inline-link' href='https://res.cloudinary.com/dmp2crnzz/image/upload/v1564123242/personal-site/Katherine_Westbrook-resume.pdf' alt='resume'>my CV/Resume right now </a>for more details on my professional background.
                 <br />
                   <br />
                   Please <a href='mailto:kcheriewestbrook@gmail.com' className='inline-link'> click here to email me</a> if you have any questions and suggestions.
