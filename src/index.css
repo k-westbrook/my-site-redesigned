@@ -17,6 +17,7 @@ code {
   width: 100vw;
   object-fit: cover;
   margin-bottom: 10vh;
+  background-attachment: fixed;
 
 }
 
