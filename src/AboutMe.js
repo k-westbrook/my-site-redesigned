@@ -17,9 +17,11 @@ class AboutMe extends Component {
 
             <div className='story'>
               <p className='paragraph'>
-                <b className='size-emphasis'>My Story:<br /></b> Welcome! My name is Katherine and you may ask, "How did you start in software?" I started dabbling in basic SQL outside of work about a year ago. This led me to various online courses, i.e. building simple mobile apps in Android Studio.</p>
-              <p className='paragraph'> I ultimately decided to puruse an in person program. I <b className='inline-emphasis'>completed a 17 week immersive software engingeering program</b> at  <a href='https://www.gracehopper.com/' className='inline-link'>the Grace Hopper Program </a>-Fullstack Academy in New York City (February 2019).
-              During this time, I was able to develop my technical skills as well as interpersonal skills on various teams.
+                <b className='size-emphasis'>Start Here:<br /></b> Motivated software engineer who's non traditional background has pushed me to learn and grow continuously. I enjoy a technical challenge and can successfully communicate and collaborate with colleagues on my team. I was able to learn Fullstack JavaScript including NodeJS/Express, PostgreSQL, React/Redux, Sequelize in only a few months with the immersive Grace Hopper Program at Fullstack Academy in New York City. This boot camp is highly selective and requires a coding challenge as well as technical interview to be considered for admission.
+
+Currently, I'm participating in the Microsoft LEAP program which is a software engineering apprenticeship. I have been working mainly with databases and the back-end realm of software during my internship. I have not only researched the technology that my team uses but have implemented solutions that are being used! Even though I am focusing heavily on data engineering in this role, I still like to actively work on side projects that have front end components as well. I am not only willing but eager to learn new technologies and provide value to any tech team!
+
+Please contact me with any software engineering or developer advocate opportunities to share my potential and grow on a collaborative team!
             </p>
             </div>
             <div className='story'>

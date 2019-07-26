@@ -106,38 +106,19 @@ a{
 }
 
 
-.description-me-box{
-  display: flex;
-  flex-direction: column;
- color:black;
-  border-style: double;
-  border-radius: .5rem;
-  border-color: white;
-flex-grow: initial;
- font-size: 1.25rem;
- padding: 0 2rem 0 2rem;
-
-
-
-  }
 .about-me-box{
   display: flex;
   flex-direction: column;
-
-  margin: 1rem 5rem 5rem 5rem;
-  background-color:#282c34;
-  border-radius: .5rem;
-align-content: center;
-box-shadow: 10px 10px 5px ;
-
+  margin: 1vh 5vw 5vh 5vw;
+  align-content: center;
+  border-style: solid;
+  padding-left:8vw;
+  padding-right:8vw;
+  padding-top:3vh;
 }
 .about-me-picture{
   height:30%;
  width:30%;
- border-style: double;
- border-radius: .5rem;
- border-color: white;
- background-color: #282c34;
  padding:5rem;
  margin: 2rem;
 
@@ -149,23 +130,22 @@ box-shadow: 10px 10px 5px ;
 
 .inline-link{
 
-  color:white;
+  color:black;
   text-decoration:underline;
 
 }
 
 .paragraph{
-  color:white;
-  background-color: #282c34;
-padding:.5rem;
+  color:black;
+  padding:.5vw;
+  font-size:120%;
+}
 
-
+.size-emphasis{
+  font-size:175%;
 }
 .story{
-  border-radius: .5rem;
- border-color: white;
- border-style: double;
- margin-top: 1rem;
+ margin-top: 1vh;
 
 }
 
