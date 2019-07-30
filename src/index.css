@@ -500,14 +500,14 @@ justify-content: center;
           background-color: whitesmoke;
           box-shadow: 1vh 1vh 1vh;
           align-items: center;
-        height: 80vh;
+        height: 70vh;
         width: 40vw;
         }
 
 
       .project-info{
 
-        height: 75vh;
+        height: 65vh;
         width: 35vw;
         margin: 0 1vw 0 1vw;
         color: black;
@@ -519,7 +519,7 @@ justify-content: center;
       .project-description{
         text-align:start;
         margin: .5vw;
-        font-size: 2.2vw;
+        font-size: 1.5vw;
         flex-grow: 1;
       }
       .project-img{
@@ -530,7 +530,7 @@ justify-content: center;
       }
 
       .project-name{
-        font-size: 3.0vw;
+        font-size: 2.5vw;
         flex-grow: 1;
         border-bottom-style: outset;
       }
@@ -588,8 +588,8 @@ justify-content: center;
       justify-content: center;
       }
       .gallery-pic{
-        height: 70vh;
-        width: 40vw  ;
+        height: 60vh;
+        width: 30vw  ;
         margin: 2.5vh;
         box-shadow: 5px 5px 2px black ;
       }
