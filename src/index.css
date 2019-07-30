@@ -420,7 +420,7 @@ justify-content: center;
 
     .title-header{
       position: absolute;
-      top: 48vh;
+      top: 40vh;
       left: 65vw;
       transform: translate(-50%, -50%);
       font-size: 5vw;
@@ -440,12 +440,13 @@ justify-content: center;
       flex-direction: column;
       width:100%;
       text-align: center;
+
     }
 
     .nav-link-box{
       flex-grow: 1;
-      padding-top:1vh;
-      padding-bottom: 1vh;
+      padding-top:.1vh;
+      padding-bottom: .1vh;
       font-size: 3.5vw;
       color:black;
 
@@ -462,7 +463,6 @@ justify-content: center;
     }
     .section-container
     {
-      margin-top:10vh;
 
       padding: 2vh 0 2vh 0;
       background-image: url('https://images.pexels.com/photos/1796730/pexels-photo-1796730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
@@ -471,7 +471,6 @@ justify-content: center;
     }
     .section-container-gallery
     {
-      margin-top:10vh;
 
       padding: 2vh 0 2vh 0;
       background-image: url('https://res.cloudinary.com/dmp2crnzz/image/upload/v1564123723/personal-site/Screen_Shot_2019-07-25_at_11.48.14_PM.png')
@@ -497,15 +496,15 @@ justify-content: center;
         background-color: whitesmoke;
         box-shadow: 1vh 1vh 1vh;
         align-items:center;
-      height: 60vh;
-      width: 25vw;
+      height: 55vh;
+      width: 70vw;
       }
 
 
     .project-info{
 
-      height: 55vh;
-      width: 20vw;
+      height: 50vh;
+      width: 65vw;
       margin: 0 1vw 0 1vw;
       color: black;
       padding:.2vw;
@@ -516,18 +515,18 @@ justify-content: center;
     .project-description{
       text-align:start;
       margin: .5vw;
-      font-size: 1.2vw;
+      font-size: 4.2vw;
       flex-grow: 1;
     }
     .project-img{
-      width:20vw;
+      width:100%;
       height:20vh;
       flex-grow: 1.2;
       margin-bottom: 1.5vh;
     }
 
     .project-name{
-      font-size: 1.8vw;
+      font-size: 3vh;
       flex-grow: 1;
       border-bottom-style: outset;
     }
@@ -546,15 +545,13 @@ justify-content: center;
     }
     .about-me-picture{
       height:44vh;
-      width: 22vw;
+      width: 64vw;
       margin-top:2vh;
       margin-bottom:5vh;
 
     }
 
-    .about-me-picture:hover{
-      opacity: .5;
-    }
+
 
     .inline-link{
 
@@ -585,9 +582,9 @@ justify-content: center;
     justify-content: center;
     }
     .gallery-pic{
-      height: 20vh;
-      width: 25vw  ;
-      margin: .5vh;
+      height: 50vh;
+      width: 80vw  ;
+      margin: 1.5vh;
 
       box-shadow: 5px 5px 2px black ;
     }
