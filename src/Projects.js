@@ -38,7 +38,7 @@ const projects = [
   {
     name: 'react-photo-book-module',
     imageURL: "https://res.cloudinary.com/dmp2crnzz/image/upload/v1564122176/personal-site/npm%20package.png",
-    description: 'A node package that generates a React component. The component can pass an array of image URLs as a prop which populates rows of images.',
+    description: 'A node package that generates a React component. The component can pass an array of image URLs as a prop which populates rows of images',
     link: 'https://www.npmjs.com/package/react-photo-book-module'
   }
 

@@ -402,3 +402,195 @@ justify-content: center;
 
 
 
+    @media only screen and (min-width: 600px) {
+
+      .title-container{
+        width: 100vw;
+        object-fit: cover;
+        margin-bottom: 10vh;
+
+      }
+
+      .paragraph-title{
+        color:black;
+        font-size:120%;
+        margin-bottom: 10vh;
+      }
+      .seattle-img{
+        max-width: 100%;
+        max-height: 100%;
+      }
+
+      .title-header{
+        position: absolute;
+        top: 35vh;
+        left: 65vw;
+        transform: translate(-50%, -50%);
+        font-size: 5vw;
+        color:whitesmoke;
+        border-style:double;
+        border-radius: 1vw;
+        padding: 1vw;
+
+
+
+      }
+
+      .nav-bar{
+        position: fixed;
+        top:0;
+        background-color: #faebd7;
+        display: flex;
+        width:100%;
+        justify-content: center;
+        height:10vh;
+        z-index: 1;
+      }
+
+      .nav-link-box{
+        flex-grow: 1;
+        text-align: center;
+        font-size: 1.5vw;
+        color:black;
+      }
+      a{
+        text-decoration: none;
+        color:black;
+      }
+      .section-title{
+        text-align: center;
+        width: 100%;
+        font-size: 200%;
+        color:whitesmoke;
+      }
+      .section-container
+      {
+        margin-top:10vh;
+
+        padding: 2vh 0 2vh 0;
+        background-image: url('https://images.pexels.com/photos/1796730/pexels-photo-1796730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+        background-repeat: repeat-y;
+
+      }
+      .section-container-gallery
+      {
+        margin-top:10vh;
+
+        padding: 2vh 0 2vh 0;
+        background-image: url('https://res.cloudinary.com/dmp2crnzz/image/upload/v1564123723/personal-site/Screen_Shot_2019-07-25_at_11.48.14_PM.png')
+
+      }
+
+      .projects-box{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        height:90%;
+        padding: 2vw;
+
+        }
+
+        .project-card{
+          display: flex;
+        flex-grow:1;
+          margin-left: 2.5vw;
+          margin-right:2.5vw;
+          margin-bottom:5vh;
+          flex-direction: column;
+          background-color: whitesmoke;
+          box-shadow: 1vh 1vh 1vh;
+          align-items: center;
+        height: 80vh;
+        width: 40vw;
+        }
+
+
+      .project-info{
+
+        height: 75vh;
+        width: 35vw;
+        margin: 0 1vw 0 1vw;
+        color: black;
+        padding:.2vw;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      .project-description{
+        text-align:start;
+        margin: .5vw;
+        font-size: 2.2vw;
+        flex-grow: 1;
+      }
+      .project-img{
+        width:80%;
+        height:20vh;
+        flex-grow: 1.2;
+        margin-bottom: 1.5vh;
+      }
+
+      .project-name{
+        font-size: 3.0vw;
+        flex-grow: 1;
+        border-bottom-style: outset;
+      }
+
+
+      .about-me-box{
+        display: flex;
+        flex-direction: column;
+        margin: 1vh 5vw 5vh 5vw;
+        align-content: center;
+
+        padding-left:8vw;
+        padding-right:8vw;
+        padding-top:3vh;
+        background-color: whitesmoke;
+      }
+      .about-me-picture{
+        height:44vh;
+        width: 24vw;
+        margin-top:2vh;
+        margin-bottom:5vh;
+
+      }
+
+      .about-me-picture:hover{
+        opacity: .5;
+      }
+
+      .inline-link{
+
+        color:black;
+        text-decoration:underline;
+
+      }
+
+      .paragraph{
+        color:black;
+        font-size:120%;
+        border-bottom-style: solid;
+        padding-bottom: 2vh;
+      }
+
+      .size-emphasis{
+        font-size:175%;
+      }
+
+
+
+      .images-box{
+
+        margin:1vw;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      }
+      .gallery-pic{
+        height: 70vh;
+        width: 40vw  ;
+        margin: 2.5vh;
+        box-shadow: 5px 5px 2px black ;
+      }
+    }
