@@ -54,7 +54,7 @@ class Projects extends Component {
       <div className="App">
         <div className="section-container">
           <div className='section-title'>
-            <h2 >Projects</h2>
+            <h2 >Projects and Publications</h2>
           </div>
           <div className='projects-box'>
             {projects.map(project => {
