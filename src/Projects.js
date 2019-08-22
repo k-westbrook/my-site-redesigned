@@ -41,6 +41,20 @@ const projects = [
     description: 'A node package that generates a React component. The component can pass an array of image URLs as a prop which populates rows of images',
     link: 'https://www.npmjs.com/package/react-photo-book-module'
   }
+  ,
+  {
+    name: 'i-agreatable',
+    imageURL: "https://res.cloudinary.com/dmp2crnzz/image/upload/v1566438724/personal-site/i-agreatable.png",
+    description: 'A web app that uses AWS Lambda, AWS API Gateway, and RDS Database to give reviews of restaurants. Visitors can make comments.',
+    link: 'https://i-agreatable.herokuapp.com/'
+  },
+  {
+    name: 'i-agreatable API',
+    imageURL: "https://res.cloudinary.com/dmp2crnzz/image/upload/v1566439136/personal-site/Restaurant-API.png"
+    ,
+    description: 'Public API that returns restaurants, ratings, reviews and other data points. Made by using AWS Lambda and AWS API Gateway',
+    link: 'https://hclla7yjk3.execute-api.us-west-1.amazonaws.com/Production'
+  }
 
 ]
 
