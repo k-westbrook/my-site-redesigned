@@ -54,6 +54,14 @@ const projects = [
     ,
     description: 'Public API that returns restaurants, ratings, reviews and other data points. Made by using AWS Lambda and AWS API Gateway',
     link: 'https://hclla7yjk3.execute-api.us-west-1.amazonaws.com/Production'
+  },
+  {
+    name: 'Help My Data Structures!',
+    imageURL: "https://res.cloudinary.com/dmp2crnzz/image/upload/v1567057910/personal-site/help-my-ds.png"
+    ,
+    description: "Web App that lets user learn about data structures while executing and visualizing how each data structure works. ",
+    link: 'https://help-my-data-structures.herokuapp.com/'
+
   }
 
 ]

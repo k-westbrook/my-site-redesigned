@@ -276,7 +276,7 @@ justify-content: center;
 
       padding: 2vh 0 2vh 0;
       background-image: url('https://images.pexels.com/photos/1796730/pexels-photo-1796730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
-      background-repeat: repeat-y;
+      background-size: cover;
 
     }
     .section-container-gallery
@@ -469,7 +469,7 @@ justify-content: center;
 
         padding: 2vh 0 2vh 0;
         background-image: url('https://images.pexels.com/photos/1796730/pexels-photo-1796730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
-        background-repeat: repeat-y;
+        background-size: cover;
 
       }
       .section-container-gallery
