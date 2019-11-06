@@ -30,14 +30,14 @@ class AboutMe extends Component {
                   <b className='size-emphasis'>Technical Skills and Knowledge:</b>
                   <br />
 
-                  <br /><b>JavaScript-- React--Redux--NodeJS-- AWS Lambda -- AWS API Gateway</b>--SQL--Kusto--Azure Data Factory<br />ORMS such as Sequelize and Mongoose-- Third Party APIs --Recharts--PowerBI--DynamoDB
+                  <br /><b>JavaScript -- React -- Redux -- NodeJS -- AWS Lambda -- AWS API Gateway</b><br />  SQL -- Kusto -- Azure Data Factory -- ORMS such as Sequelize and Mongoose<br />Third Party APIs -- Recharts -- PowerBI -- DynamoDB
                 </p>
 
                 <p className='paragraph'>
                   <b className='size-emphasis'>Contact me</b>
                   <br />
                   <br />
-                  Take a look at <a className='inline-link' href='https://res.cloudinary.com/dmp2crnzz/image/upload/v1564123242/personal-site/Katherine_Westbrook-resume.pdf' alt='resume'>my CV/Resume right now </a>for more details on my professional background.
+                  Take a look at <a className='inline-link' href='https://res.cloudinary.com/dmp2crnzz/image/upload/v1573062854/personal-site/Katherine_Westbrook-resume.pdf' alt='resume'>my CV/Resume right now </a>for more details on my professional background.
                 <br />
                   <br />
                   Please <a href='mailto:kcheriewestbrook@gmail.com' className='inline-link'> click here to email me</a> if you have any questions and suggestions.
