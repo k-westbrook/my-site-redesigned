@@ -20,7 +20,7 @@ class AboutMe extends Component {
                   <b className='size-emphasis'>Get to know me<br /><br /></b> I am a motivated software engineer who's non traditional background has pushed me to learn and grow continuously. I enjoy a technical challenge and can successfully communicate and collaborate with colleagues on my team. I was able to learn Fullstack JavaScript including NodeJS/Express, PostgreSQL, React/Redux, Sequelize in only a few months with the immersive Grace Hopper Program at Fullstack Academy in New York City. This boot camp is highly selective and requires a coding challenge as well as technical interview to be considered for admission.
 </p>
                 <p className='paragraph'>
-                  Currently, I'm participating in the Microsoft LEAP program which is a software engineering apprenticeship. I have been working mainly with databases and the back-end realm of software during my internship. I have not only researched the technology that my team uses but have implemented solutions that are being used! Even though I am focusing heavily on data engineering in this role, I still like to actively work on side projects that have front end components as well. I am not only willing but eager to learn new technologies and provide value to any tech team!
+                  In August, I finished the Microsoft LEAP program which is a software engineering apprenticeship. I have been working mainly with databases and the back-end realm of software during my internship. I have not only researched the technology that my team uses but have implemented solutions that are being used! Even though I am focusing heavily on data engineering in this role, I still like to actively work on side projects that have front end components as well. <b>I LOVE REACT!</b> I am not only willing but eager to learn new technologies and provide value to any tech team!
 
                   Please contact me with any software engineering or developer advocate opportunities to share my potential and grow on a collaborative team!
             </p>
@@ -30,7 +30,7 @@ class AboutMe extends Component {
                   <b className='size-emphasis'>Technical Skills and Knowledge:</b>
                   <br />
 
-                  <br /><b>JavaScript--  React--Redux--NodeJS</b>--SQL--Kusto--Azure Data Factory<br />ORMS such as Sequelize and Mongoose-- Third Party APIs --Recharts--PowerBI
+                  <br /><b>JavaScript-- React--Redux--NodeJS-- AWS Lambda -- AWS API Gateway</b>--SQL--Kusto--Azure Data Factory<br />ORMS such as Sequelize and Mongoose-- Third Party APIs --Recharts--PowerBI--DynamoDB
                 </p>
 
                 <p className='paragraph'>
