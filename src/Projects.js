@@ -62,7 +62,17 @@ const projects = [
     description: "Web App that lets user learn about data structures while executing and visualizing how each data structure works. ",
     link: 'https://help-my-data-structures.herokuapp.com/'
 
+  },
+  {
+    name: "What's on your mind?",
+    imageURL: "https://res.cloudinary.com/dmp2crnzz/image/upload/v1573062096/personal-site/on-your-mind.png"
+    ,
+    description: "Web App that lets user post any comment on their mind. Uses React, AWS Lambda/API Gateway and DynamoDB. ",
+    link: 'https://whats-on-your-mind.herokuapp.com/'
+
   }
+
+
 
 ]
 
